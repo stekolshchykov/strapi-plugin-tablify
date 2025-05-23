@@ -25,6 +25,6 @@ Usage:
 3. Follow the instructions.
 
 Screenshots:
-![Import](./screenshot1.png)
+![Import](https://raw.githubusercontent.com/stekolshchykov/strapi-plugin-tablify/main/screenshot1.png)
 
 License: MIT
