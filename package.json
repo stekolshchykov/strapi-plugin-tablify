@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-tablify",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "keywords": [
     "strapi",
     "plugin",
@@ -36,7 +36,8 @@
     "watch:link": "strapi-plugin watch:link",
     "verify": "strapi-plugin verify",
     "test:ts:front": "run -T tsc -p admin/tsconfig.json",
-    "test:ts:back": "run -T tsc -p server/tsconfig.json"
+    "test:ts:back": "run -T tsc -p server/tsconfig.json",
+    "publish": "npm publish --access public"
   },
   "dependencies": {
     "@strapi/design-system": "^2.0.0-rc.23",
